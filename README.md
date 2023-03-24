@@ -1,2 +1,3 @@
-# legal-gpt
-Some exercise on prompt engineering, specifically for the legal field.
+# GPT Application
+
+This repo is to demo the use case of ChatGPT, in particular the power of prompt engineering.
